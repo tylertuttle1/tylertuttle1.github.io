@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Test page
-permalink: /testy
 ---
 
 Does this work?
