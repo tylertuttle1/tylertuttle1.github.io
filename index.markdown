@@ -26,7 +26,7 @@ I did my PhD at Carleton University, at the [Algorithms, Geometry, and Graphs La
     [[WADS '25]](https://doi.org/10.4230/LIPIcs.WADS.2025.10),
     [[arXiv]](https://arxiv.org/abs/2506.06477)
   - **Computational Aspects of Disks Containing Many Points**\\
-    [[Discret. Appl. Math. 397]](https://doi.org/10.1016/j.dam.2026.10.019),
+    [[Discrete Appl. Math. 397]](https://doi.org/10.1016/j.dam.2026.10.019),
     [[LAGOS '25]](https://doi.org/10.1016/j.procs.2025.10.318),
     [[arXiv]](https://arxiv.org/abs/2601.20036)
   - **Containment Problems in Convex Sets**\\
