@@ -22,7 +22,7 @@ I did my PhD at Carleton University, at the [Algorithms, Geometry, and Graphs La
     [[ISAAC 2024]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.15)
   - **On Geodesic Disks Enclosing Many Points**\\
     Prosenjit Bose, Guillermo Esteban, David Orden, Rodrigo I. Silveira, Tyler Tuttle\\
-    Discret. Comput. Geom. (to appear),
+    Discrete Comput. Geom. (to appear),
     [[WADS '25]](https://doi.org/10.4230/LIPIcs.WADS.2025.10),
     [[arXiv]](https://arxiv.org/abs/2506.06477)
   - **Computational Aspects of Disks Containing Many Points**\\
